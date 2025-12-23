@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "NO MONEY DANCE",
+  "base_artist": "Yabai T-Shirts Yasan",
+  "createdAt": "2025-12-23T09:25:28.159809Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NO MONEY DANCE",
+      "artist": "Yabai T-Shirts Yasan",
+      "has_synced": true,
+      "path": "select/01_NO_MONEY_DANCE_Yabai_T-Shirts_Yasan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NO MONEY DANCE",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_01_NO_MONEY_DANCE_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "NO MONEY DANCE",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_02_NO_MONEY_DANCE_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "NO MONEY DANCE",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_03_NO_MONEY_DANCE_ヤバイTシャツ屋さん.txt"
+    }
+  ]
+}
